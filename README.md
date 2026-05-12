@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey, I'm Zach 👋
 
-<!--
-**zachwenger/zachwenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+19 year old cybersecurity student based in San Diego, CA.
+I build real security tools and document everything.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+
+| Project | What it does |
+|---|---|
+| [Password Manager](https://github.com/zachwenger/password-manager) | AES-encrypted vault with password generator, strength checker, and clipboard copy |
+| [Phishing Analyzer](https://github.com/zachwenger/phishing-analyzer) | AI-powered email analyzer — flags red flags, maps to MITRE ATT&CK |
+| [Homelab Pentest v1](https://github.com/zachwenger/homelab-pentest-v1) | Full penetration test on an isolated home lab — recon through EternalBlue |
+
+---
+
+## ⚙️ Tools & Skills
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+`Nmap` `Metasploit` `Wireshark` `Python` `Kali Linux` `VirtualBox` `Git`
+
+---
+
+## 📚 Currently
+
+- Studying for CompTIA Security+
+- Building out my home lab (Active Directory next)
+- Exploring AI-powered security tooling
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-wenger-5a2336319/)
