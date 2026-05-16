@@ -12,6 +12,7 @@ I build real security tools and document everything.
 | [Password Manager](https://github.com/zachwenger/password-manager) | AES-encrypted vault with password generator, strength checker, and clipboard copy |
 | [Phishing Analyzer](https://github.com/zachwenger/phishing-analyzer) | AI-powered email analyzer — flags red flags, maps to MITRE ATT&CK |
 | [Homelab Pentest v1](https://github.com/zachwenger/homelab-pentest-v1) | Full penetration test on an isolated home lab — recon through EternalBlue |
+| [Honeypot](https://github.com/zachwenger/honeypot) | Python honeypot deployed on AWS EC2 — captured real attack attempts from the internet |
 
 ---
 
